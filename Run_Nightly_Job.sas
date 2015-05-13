@@ -1,0 +1,1 @@
+/* This line was written as the development from the scratch for Release R1.0 */
